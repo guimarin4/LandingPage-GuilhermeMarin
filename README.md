@@ -15,11 +15,3 @@ https://guimarin4.github.io/LandingPage-GuilhermeMarin/
     *   💻 Software & Web (Python, React, C++, Docker)
     *   🧠 AI & Data (PyTorch, Pandas, CPLEX)
 *   **Multilingual Support:** Showcases proficiency in Portuguese, English, Spanish, and German.
-
-## 🚀 How to Run Locally
-
-Since this is a static website built with pure HTML and CSS, no complex setup or build process is required.
-
-1. Clone the repository:
-   ```bash
-   git clone https://guimarin4.github.io/LandingPage-GuilhermeMarin/
